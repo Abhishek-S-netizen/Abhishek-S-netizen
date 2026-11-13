@@ -1,5 +1,11 @@
-## Hi there 👋
+## Hi there, I'm Abhishek 👋
+Third-year Computer Science student with a passion for building web applications that are both functional and enjoyable to use.
 
+---
+
+### Web Applications
+* [AutoVerse](https://github.com/Abhishek-S-netizen/AutoVerse) - Full-Stack Automotive Platform
+* [CineMax](https://github.com/Abhishek-S-netizen/movie-ticket-booking-system) - 
 <!--
 **Abhishek-S-netizen/Abhishek-S-netizen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
