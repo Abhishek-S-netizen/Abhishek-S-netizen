@@ -20,7 +20,7 @@ Third-year Computer Science student with a passion for building web applications
 * [Predictive Maintenance](https://github.com/Abhishek-S-netizen/Predictive-Maintenance) - Equipment RUL and failure prediction
 * [Transaction Fraud Detection](https://github.com/Abhishek-S-netizen/transaction-fraud-detection) - Classification pipeline to predict fraudulent transactions
 * [IBM Employee Attrition](https://github.com/Abhishek-S-netizen/Employee_Attrition_Model) - HR analytics and classification model
-* [House Price Prediction](https://github.com/Abhishek-S-netizen/California-House-Price-Prediction) - An end-to-end machine learning application for predicting California house prices.
+* [House Price Prediction](https://github.com/Abhishek-S-netizen/California-House-Price-Prediction) - An end-to-end machine learning application for predicting California house prices
 <!--
 **Abhishek-S-netizen/Abhishek-S-netizen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
