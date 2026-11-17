@@ -1,4 +1,4 @@
-## Hi there, I'm Abhishek 👋
+## Hi there, I'm Abhishek
 Third-year Computer Science student with a passion for building web applications that are both functional and enjoyable to use.
 
 ---
