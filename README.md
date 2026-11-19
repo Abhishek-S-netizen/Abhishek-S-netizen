@@ -8,6 +8,7 @@ Third-year Computer Science student with a passion for building web applications
 * [AutoVerse](https://github.com/Abhishek-S-netizen/AutoVerse) - Full-stack automotive platform
 * [Porsche](https://github.com/Abhishek-S-netizen/porsche-inspired-cms) - Porsche showcase website
 * [CineMax](https://github.com/Abhishek-S-netizen/movie-ticket-booking-system) - Movie booking system
+* [Tasks](https://github.com/Abhishek-S-netizen/task-management) - Offline-first task management system built as an installable PWA
 * [PixelForge Studios](https://github.com/Abhishek-S-netizen/PixelForge-Studios) - Concept, static, website for a digital studio
 * [Kerala Renaissance Leaders](https://github.com/Abhishek-S-netizen/Kerala-Renaissance) - An interactive website highlighting major Kerala social reformers
 * [Formula 1](https://github.com/Abhishek-S-netizen/Formula-1) - A comprehensive website explaining key concepts of Formula 1
